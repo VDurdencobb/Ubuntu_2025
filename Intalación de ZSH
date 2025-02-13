@@ -1,0 +1,11 @@
+Primero como usuario normal:
+    1/ Nos vamos a la carpeta /home/galocha/Escritorio/Ubuntu_Desk_2025/config
+    2/ Ejecutamos:
+        cp zshrc ~/.zshrc
+    
+Despues, como super usuario
+    1/ Ejecutamos:
+        sudo sudo
+    2/Nos vamos a la carpeta /home/galocha/Escritorio/Ubuntu_Desk_2025/config
+    3/ Ejecutamos:
+        cp zshrc ~/.zshrc
